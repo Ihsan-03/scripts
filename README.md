@@ -4,6 +4,8 @@ Collection of Basic Bash and AWS automation scripts.
 
 # Index
 
+---
+
 ## Monitor Server Health
 - Disk usage
 - Memory usage
