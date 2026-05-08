@@ -1,9 +1,1 @@
-# AWS Resource Tracker
-
-Bash script to monitor AWS resources using AWS CLI.
-
-## Description
-- S3 Buckets
-- EC2 Instances
-- Lambda Functions
-- IAM Users
+# AWS Resource TrackerBash script to monitor AWS resources using AWS CLI.## Description- S3 Buckets- EC2 Instances- Lambda Functions- IAM Users***## PrerequisitesBefore running the script, configure AWS CLI and "jq" is installed ## AWS CLI Configuration```bashaws configure```Provide:- AWS Access Key ID- AWS Secret Access Key- Default region name- Output format---## jq InstallationThis script uses `jq` to parse JSON output Install jq:### Ubuntu (Debian)```bashsudo apt install jq -y```

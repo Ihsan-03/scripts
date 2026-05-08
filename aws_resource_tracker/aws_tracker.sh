@@ -10,7 +10,7 @@
 - AWS Lambda Functions
 - AWS IAM Users
 
-# Version:1
+# Version: v1
 ####################
 
 set -x
